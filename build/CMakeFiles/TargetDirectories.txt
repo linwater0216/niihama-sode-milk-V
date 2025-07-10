@@ -1,0 +1,3 @@
+/home/user/picture-resize/build/CMakeFiles/opencv-mobile-test.dir
+/home/user/picture-resize/build/CMakeFiles/edit_cache.dir
+/home/user/picture-resize/build/CMakeFiles/rebuild_cache.dir
